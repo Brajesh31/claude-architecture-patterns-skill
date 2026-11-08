@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Architecture Patterns** when working on a 
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added `resources/implementation-playbook.md` with implementation and review guidance for common architecture patterns.
